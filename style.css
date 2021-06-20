@@ -51,7 +51,7 @@ a{
 }
 
 a:hover {
-    color: #EAF6F6;
+    color: #EAF6F6; 
 }
 
 .top-container {
@@ -78,7 +78,7 @@ a:hover {
 .Pro {
     text-decoration: underline;
     color: #66BFBF;
-}
+} 
 
 .intro {
     width: 30%;
